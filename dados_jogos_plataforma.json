@@ -1,0 +1,4135 @@
+[
+    {
+        "plataforma": "Xbox One",
+        "jogos": [
+            {
+                "nome_jogo": "Alien: Isolation",
+                "dados_jogo": {
+                    "desenvolvedora": "The Creative Assembly",
+                    "publicadora": "Sega"
+                }
+            },
+            {
+                "nome_jogo": "Angry Birds Star Wars",
+                "dados_jogo": {
+                    "desenvolvedora": "Rovio",
+                    "publicadora": "Activision"
+                }
+            },
+            {
+                "nome_jogo": "Another World",
+                "dados_jogo": {
+                    "desenvolvedora": "Martial Hesse-Dreville",
+                    "publicadora": "The Digital Lounge"
+                }
+            },
+            {
+                "nome_jogo": "Arena of Fate",
+                "dados_jogo": {
+                    "desenvolvedora": "Crytek",
+                    "publicadora": "Crytek"
+                }
+            },
+            {
+                "nome_jogo": "Assassin's Creed IV: Black Flag",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Montreal",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Assassin's Creed: Unity",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Toronto",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Assassin's Creed Syndicate",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Quebec",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Assassin's Creed Origins",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Montreal",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Assassin's Creed Odyssey",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Quebec",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Batman: Arkham Knight",
+                "dados_jogo": {
+                    "desenvolvedora": "Rocksteady Studios",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Battlefield 4",
+                "dados_jogo": {
+                    "desenvolvedora": "DICE",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Battlefield: Hardline",
+                "dados_jogo": {
+                    "desenvolvedora": "Visceral Games",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Below",
+                "dados_jogo": {
+                    "desenvolvedora": "Capybara Games",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Bioshock Infinite",
+                "dados_jogo": {
+                    "desenvolvedora": "Irrational Games",
+                    "publicadora": "2K Games"
+                }
+            },
+            {
+                "nome_jogo": "Call of Duty: Advanced Warfare",
+                "dados_jogo": {
+                    "desenvolvedora": "Sledgehammer Games",
+                    "publicadora": "Activision"
+                }
+            },
+            {
+                "nome_jogo": "Call of Duty: Ghosts",
+                "dados_jogo": {
+                    "desenvolvedora": "Infinity Ward",
+                    "publicadora": "Activision"
+                }
+            },
+            {
+                "nome_jogo": "Carmageddon: Reincarnation",
+                "dados_jogo": {
+                    "desenvolvedora": "Stainless Games",
+                    "publicadora": "Stainless Games"
+                }
+            },
+            {
+                "nome_jogo": "Castle Storm: Definitive Edition",
+                "dados_jogo": {
+                    "desenvolvedora": "Zen Studios",
+                    "publicadora": "Zen Studios"
+                }
+            },
+            {
+                "nome_jogo": "Chariot",
+                "dados_jogo": {
+                    "desenvolvedora": "Frima Studio",
+                    "publicadora": "Frima Studio"
+                }
+            },
+            {
+                "nome_jogo": "Child of Light",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Montreal",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Contrast",
+                "dados_jogo": {
+                    "desenvolvedora": "Platform Compulsion Games",
+                    "publicadora": "Platform Compulsion Games"
+                }
+            },
+            {
+                "nome_jogo": "Costume Quest 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Double Fine Productions",
+                    "publicadora": "Midnight City"
+                }
+            },
+            {
+                "nome_jogo": "Crimson Dragon",
+                "dados_jogo": {
+                    "desenvolvedora": "Grounding",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Cities: Skylines",
+                "dados_jogo": {
+                    "desenvolvedora": "Colossal Order",
+                    "publicadora": "Paradox Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Cuphead",
+                "dados_jogo": {
+                    "desenvolvedora": "StudioMDHR Enterteinment",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Cyberpunk 2077",
+                "dados_jogo": {
+                    "desenvolvedora": "CD Projekt RED",
+                    "publicadora": "CD Projekt RED"
+                }
+            },
+            {
+                "nome_jogo": "D4",
+                "dados_jogo": {
+                    "desenvolvedora": "Access Games",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Dance Central Spotlight",
+                "dados_jogo": {
+                    "desenvolvedora": "Harmonix",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Dead by Daylight",
+                "dados_jogo": {
+                    "desenvolvedora": "Behaviour Interactive",
+                    "publicadora": "Starbreeze Studios"
+                }
+            },
+            {
+                "nome_jogo": "Dead Island 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Yager Development",
+                    "publicadora": "Deep Silver"
+                }
+            },
+            {
+                "nome_jogo": "Dead or Alive 5: Last Round",
+                "dados_jogo": {
+                    "desenvolvedora": "Team Ninja",
+                    "publicadora": "Tecmo Koei"
+                }
+            },
+            {
+                "nome_jogo": "Dead Rising 3",
+                "dados_jogo": {
+                    "desenvolvedora": "Capcom Vancouver",
+                    "publicadora": "Capcom"
+                }
+            },
+            {
+                "nome_jogo": "Destiny",
+                "dados_jogo": {
+                    "desenvolvedora": "Bungie",
+                    "publicadora": "Activision"
+                }
+            },
+            {
+                "nome_jogo": "Defense Grid 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Hidden Path Entertainment",
+                    "publicadora": "505 Games"
+                }
+            },
+            {
+                "nome_jogo": "Devil May Cry 4 Special Edition",
+                "dados_jogo": {
+                    "desenvolvedora": "Capcom",
+                    "publicadora": "Capcom"
+                }
+            },
+            {
+                "nome_jogo": "Disney Infinity: Marvel Superheroes",
+                "dados_jogo": {
+                    "desenvolvedora": "Avalanche Software",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Diablo III",
+                "dados_jogo": {
+                    "desenvolvedora": "Blizzard Entertainment",
+                    "publicadora": "Blizzard Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Divekick Addition Edition",
+                "dados_jogo": {
+                    "desenvolvedora": "Iron Galaxy Studios",
+                    "publicadora": "Iron Galaxy Studios"
+                }
+            },
+            {
+                "nome_jogo": "DmC: Devil May Cry Definitive Edition",
+                "dados_jogo": {
+                    "desenvolvedora": "Capcom",
+                    "publicadora": "Capcom"
+                }
+            },
+            {
+                "nome_jogo": "Dragon Age: Inquisition",
+                "dados_jogo": {
+                    "desenvolvedora": "BioWare",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Dragon Ball Xenoverse",
+                "dados_jogo": {
+                    "desenvolvedora": "Dimps",
+                    "publicadora": "Namco Bandai"
+                }
+            },
+            {
+                "nome_jogo": "Dying Light",
+                "dados_jogo": {
+                    "desenvolvedora": "Techland",
+                    "publicadora": "Warner Bros. Interactive"
+                }
+            },
+            {
+                "nome_jogo": "EA Sports UFC",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "EA Sports UFC 2",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "EA Sports UFC 3",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Fable Legends",
+                "dados_jogo": {
+                    "desenvolvedora": "Lionhead Studios",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Fantasia: Music Evolved",
+                "dados_jogo": {
+                    "desenvolvedora": "Harmonix Music Systems",
+                    "publicadora": "Disney Interactive Studios"
+                }
+            },
+            {
+                "nome_jogo": "Far Cry 4",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Montreal",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Fibbage",
+                "dados_jogo": {
+                    "desenvolvedora": "Jackbox Games",
+                    "publicadora": "Jackbox Games"
+                }
+            },
+            {
+                "nome_jogo": "FIFA 14",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "FIFA 15",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "FIFA 16",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "FIFA 17",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "FIFA 18",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Fighter Within",
+                "dados_jogo": {
+                    "desenvolvedora": "Daoka",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Final Fantasy XV",
+                "dados_jogo": {
+                    "desenvolvedora": "Square Enix",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "Final Fantasy Type-0 HD",
+                "dados_jogo": {
+                    "desenvolvedora": "Square Enix",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "Forza Horizon 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Turn 10 Studios",
+                    "publicadora": "Microsoft"
+                }
+            },
+            {
+                "nome_jogo": "Forza Horizon 3",
+                "dados_jogo": {
+                    "desenvolvedora": "Turn 10 Studios",
+                    "publicadora": "Microsoft"
+                }
+            },
+            {
+                "nome_jogo": "Forza Horizon 4",
+                "dados_jogo": {
+                    "desenvolvedora": "Turn 10 Studios",
+                    "publicadora": "Microsoft"
+                }
+            },
+            {
+                "nome_jogo": "Forza Motorsport 5",
+                "dados_jogo": {
+                    "desenvolvedora": "Turn 10 Studios",
+                    "publicadora": "Microsoft"
+                }
+            },
+            {
+                "nome_jogo": "Forza Motorsport 6",
+                "dados_jogo": {
+                    "desenvolvedora": "Turn 10 Studios",
+                    "publicadora": "Microsoft"
+                }
+            },
+            {
+                "nome_jogo": "Forza Motorsport 7",
+                "dados_jogo": {
+                    "desenvolvedora": "Turn 10 Studios",
+                    "publicadora": "Microsoft"
+                }
+            },
+            {
+                "nome_jogo": "Game of Thrones",
+                "dados_jogo": {
+                    "desenvolvedora": "Telltale Games",
+                    "publicadora": "Telltale Games"
+                }
+            },
+            {
+                "nome_jogo": "Grand Theft Auto V",
+                "dados_jogo": {
+                    "desenvolvedora": "Rockstar North",
+                    "publicadora": "Rockstar Games"
+                }
+            },
+            {
+                "nome_jogo": "Grand Theft Auto IV ( retrocompatibilidade )",
+                "dados_jogo": {
+                    "desenvolvedora": "Rockstar North",
+                    "publicadora": "Rockstar Games"
+                }
+            },
+            {
+                "nome_jogo": "Guacamelee!: Super Turbo Champion Edition",
+                "dados_jogo": {
+                    "desenvolvedora": "Drinkbox Studios",
+                    "publicadora": "Drinkbox Studios"
+                }
+            },
+            {
+                "nome_jogo": "Gears of War 4",
+                "dados_jogo": {
+                    "desenvolvedora": "The Coalition",
+                    "publicadora": "Microsoft"
+                }
+            },
+            {
+                "nome_jogo": "Gears of War 5",
+                "dados_jogo": {
+                    "desenvolvedora": "The Coalition",
+                    "publicadora": "Microsoft"
+                }
+            },
+            {
+                "nome_jogo": "Guigui: Original Life",
+                "dados_jogo": {
+                    "desenvolvedora": "Songmoon Entertainment Inc",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Halo 5: Guardians",
+                "dados_jogo": {
+                    "desenvolvedora": "343 Industries",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Halo: Spartan Assault",
+                "dados_jogo": {
+                    "desenvolvedora": "343 Industries, Vanguard Entertainment",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Halo: The Master Chief Collection",
+                "dados_jogo": {
+                    "desenvolvedora": "343 Industries",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "How To Survive: Storm Warning Edition",
+                "dados_jogo": {
+                    "desenvolvedora": "Eko Software",
+                    "publicadora": "505 Games"
+                }
+            },
+            {
+                "nome_jogo": "Just Dance 2014",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Just Dance 2015",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Killer Instinct",
+                "dados_jogo": {
+                    "desenvolvedora": "Rare Ltd., Double Helix Games",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Kinect Sports Rivals",
+                "dados_jogo": {
+                    "desenvolvedora": "Rare Ltd.",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Kingdom Hearts III",
+                "dados_jogo": {
+                    "desenvolvedora": "Square Enix",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "LEGO Batman 3: Beyond Gotham",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "LEGO City Undercover",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "LEGO DC Super Villains",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "LEGO Harry Potter Collection",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "LEGO Jurassic World",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "LEGO Marvel's Avengers",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "LEGO Marvel Super Heroes",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "LEGO Marvel Super Heroes 2",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "LEGO Ninjago O Filme O Jogo",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "LEGO Os Incríveis",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "LEGO Star Wars: O Despertar Da Força",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "LEGO Star Wars III: The Clone Wars",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "LEGO The Hobbit",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Limbo",
+                "dados_jogo": {
+                    "desenvolvedora": "Playdead",
+                    "publicadora": "Playdead"
+                }
+            },
+            {
+                "nome_jogo": "Lords of the Fallen",
+                "dados_jogo": {
+                    "desenvolvedora": "Deck 13",
+                    "publicadora": "City Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Madden NFL 15",
+                "dados_jogo": {
+                    "desenvolvedora": "Electronic Arts",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Madden NFL 25",
+                "dados_jogo": {
+                    "desenvolvedora": "Electronic Arts",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Mad Max",
+                "dados_jogo": {
+                    "desenvolvedora": "Avalanche Studios",
+                    "publicadora": "Warner Bros. Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Max: The Curse of Brotherhood",
+                "dados_jogo": {
+                    "desenvolvedora": "Press Play",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Metal Gear Solid V: Ground Zeroes",
+                "dados_jogo": {
+                    "desenvolvedora": "Kojima Productions",
+                    "publicadora": "Konami"
+                }
+            },
+            {
+                "nome_jogo": "Metal Gear Solid V: The Phantom Pain",
+                "dados_jogo": {
+                    "desenvolvedora": "Kojima Productions",
+                    "publicadora": "Konami"
+                }
+            },
+            {
+                "nome_jogo": "Metro 2033 Redux",
+                "dados_jogo": {
+                    "desenvolvedora": "4A Games",
+                    "publicadora": "Deep Silver"
+                }
+            },
+            {
+                "nome_jogo": "Metro: Last Light Redux",
+                "dados_jogo": {
+                    "desenvolvedora": "4A Games",
+                    "publicadora": "Deep Silver"
+                }
+            },
+            {
+                "nome_jogo": "Middle-earth: Shadow of Mordor",
+                "dados_jogo": {
+                    "desenvolvedora": "Monolith Productions",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Minecraft: Xbox One Edition",
+                "dados_jogo": {
+                    "desenvolvedora": "Mojang, 4J Studios",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Mirror's Edge 2",
+                "dados_jogo": {
+                    "desenvolvedora": "DICE",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Mortal Kombat X",
+                "dados_jogo": {
+                    "desenvolvedora": "NetherRealm Studios",
+                    "publicadora": "Warner Bros."
+                }
+            },
+            {
+                "nome_jogo": "Murdered: Soul Suspect",
+                "dados_jogo": {
+                    "desenvolvedora": "Airtight Games",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "Naruto Shippuden: Ultimate Ninja Storm 4",
+                "dados_jogo": {
+                    "desenvolvedora": "CyberConnect2",
+                    "publicadora": "Bandai Namco Games"
+                }
+            },
+            {
+                "nome_jogo": "Naruto Shippuden: Ultimate Ninja Storm Trilogy",
+                "dados_jogo": {
+                    "desenvolvedora": "CyberConnect2",
+                    "publicadora": "Bandai Namco Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K14",
+                "dados_jogo": {
+                    "desenvolvedora": "Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K15",
+                "dados_jogo": {
+                    "desenvolvedora": "Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K16",
+                "dados_jogo": {
+                    "desenvolvedora": "Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K17",
+                "dados_jogo": {
+                    "desenvolvedora": "Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K18",
+                "dados_jogo": {
+                    "desenvolvedora": "Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "NBA Live 14",
+                "dados_jogo": {
+                    "desenvolvedora": "Electronic Arts",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "NBA Live 15",
+                "dados_jogo": {
+                    "desenvolvedora": "Electronic Arts",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "NBA Live 16",
+                "dados_jogo": {
+                    "desenvolvedora": "Electronic Arts",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "NBA Live 18",
+                "dados_jogo": {
+                    "desenvolvedora": "Electronic Arts",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Need for Speed: Rivals",
+                "dados_jogo": {
+                    "desenvolvedora": "Ghost Games",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Never Alone",
+                "dados_jogo": {
+                    "desenvolvedora": "Upper One Games",
+                    "publicadora": "Upper One Games"
+                }
+            },
+            {
+                "nome_jogo": "Ori and the Blind Forest",
+                "dados_jogo": {
+                    "desenvolvedora": "Moon Studios",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Outlast",
+                "dados_jogo": {
+                    "desenvolvedora": "Red Barrels Studio",
+                    "publicadora": "Red Barrels Studio"
+                }
+            },
+            {
+                "nome_jogo": "Peggle 2",
+                "dados_jogo": {
+                    "desenvolvedora": "PopCap Games",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Plants vs. Zombies: Garden Warfare",
+                "dados_jogo": {
+                    "desenvolvedora": "PopCap Games",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Powerstar Golf",
+                "dados_jogo": {
+                    "desenvolvedora": "Zoë Mode",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Pro Evolution Soccer 2015",
+                "dados_jogo": {
+                    "desenvolvedora": "PES Productions",
+                    "publicadora": "Konami"
+                }
+            },
+            {
+                "nome_jogo": "Pro Evolution Soccer 2016",
+                "dados_jogo": {
+                    "desenvolvedora": "Pes Produtions",
+                    "publicadora": "Konami"
+                }
+            },
+            {
+                "nome_jogo": "Pro Evolution Soccer 2017",
+                "dados_jogo": {
+                    "desenvolvedora": "Pes Produtions",
+                    "publicadora": "Konami"
+                }
+            },
+            {
+                "nome_jogo": "Pro Evolution Soccer 2018",
+                "dados_jogo": {
+                    "desenvolvedora": "Pes Produtions",
+                    "publicadora": "Konami"
+                }
+            },
+            {
+                "nome_jogo": "Project CARS",
+                "dados_jogo": {
+                    "desenvolvedora": "Slightly Mad Studios",
+                    "publicadora": "Slightly Mad Studios"
+                }
+            },
+            {
+                "nome_jogo": "Project Spark",
+                "dados_jogo": {
+                    "desenvolvedora": "Team Dakota",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Quantum Break",
+                "dados_jogo": {
+                    "desenvolvedora": "Remedy Entertainment",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Rayman Legends",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Montpellier",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Red Dead Redemption II",
+                "dados_jogo": {
+                    "desenvolvedora": "Rockstar Studios",
+                    "publicadora": "Rockstar Games"
+                }
+            },
+            {
+                "nome_jogo": "Resident Evil HD Remaster",
+                "dados_jogo": {
+                    "desenvolvedora": "Capcom",
+                    "publicadora": "Capcom"
+                }
+            },
+            {
+                "nome_jogo": "Resident Evil Revelations 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Capcom",
+                    "publicadora": "Capcom"
+                }
+            },
+            {
+                "nome_jogo": "Rise of the Tomb Raider",
+                "dados_jogo": {
+                    "desenvolvedora": "Crystal Dynamics",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "Rocksmith 2014",
+                "dados_jogo": {
+                    "desenvolvedora": "Red Storm",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Ryse: Son of Rome",
+                "dados_jogo": {
+                    "desenvolvedora": "Crytek",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Sleeping Dogs: Definitive Edition",
+                "dados_jogo": {
+                    "desenvolvedora": "United Front",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "Sleeping Dogs: Triad Wars",
+                "dados_jogo": {
+                    "desenvolvedora": "United Front",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "Skylanders: Swap Force",
+                "dados_jogo": {
+                    "desenvolvedora": "Vicarious Visions",
+                    "publicadora": "Activision"
+                }
+            },
+            {
+                "nome_jogo": "Sniper Elite III",
+                "dados_jogo": {
+                    "desenvolvedora": "Rebellion Developments",
+                    "publicadora": "505 Games"
+                }
+            },
+            {
+                "nome_jogo": "Sniper: Ghost Warrior 3",
+                "dados_jogo": {
+                    "desenvolvedora": "CI Games",
+                    "publicadora": "CI Games"
+                }
+            },
+            {
+                "nome_jogo": "Strider",
+                "dados_jogo": {
+                    "desenvolvedora": "Double Helix Games",
+                    "publicadora": "Capcom"
+                }
+            },
+            {
+                "nome_jogo": "Strike Suit Zero: Director's Cut",
+                "dados_jogo": {
+                    "desenvolvedora": "Born Ready Games",
+                    "publicadora": "Born Ready Games"
+                }
+            },
+            {
+                "nome_jogo": "Sunset Overdrive",
+                "dados_jogo": {
+                    "desenvolvedora": "Insomniac Games",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Tales from the Borderlands",
+                "dados_jogo": {
+                    "desenvolvedora": "Telltale Games",
+                    "publicadora": "Telltale Games"
+                }
+            },
+            {
+                "nome_jogo": "Tekken 7",
+                "dados_jogo": {
+                    "desenvolvedora": "Bandai Namco Entertainment",
+                    "publicadora": "Bandai Namco Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "The Crew",
+                "dados_jogo": {
+                    "desenvolvedora": "Ivory Tower",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "The Elder Scrolls Online",
+                "dados_jogo": {
+                    "desenvolvedora": "ZeniMax Online Studios",
+                    "publicadora": "Bethesda Softworks"
+                }
+            },
+            {
+                "nome_jogo": "The Evil Within",
+                "dados_jogo": {
+                    "desenvolvedora": "Tango Gameworks",
+                    "publicadora": "Bethesda Softworks"
+                }
+            },
+            {
+                "nome_jogo": "The LEGO Movie Videogame",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "The LEGO Movie Videogame 2",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "The Walking Dead",
+                "dados_jogo": {
+                    "desenvolvedora": "Telltale Games",
+                    "publicadora": "Telltale Games"
+                }
+            },
+            {
+                "nome_jogo": "The Walking Dead: Season Two",
+                "dados_jogo": {
+                    "desenvolvedora": "Telltale Games",
+                    "publicadora": "Telltale Games"
+                }
+            },
+            {
+                "nome_jogo": "The Witcher 3: Wild Hunt",
+                "dados_jogo": {
+                    "desenvolvedora": "CD Projekt RED",
+                    "publicadora": "CD Projekt RED"
+                }
+            },
+            {
+                "nome_jogo": "The Wolf Among Us",
+                "dados_jogo": {
+                    "desenvolvedora": "Telltale Games",
+                    "publicadora": "Telltale Games"
+                }
+            },
+            {
+                "nome_jogo": "Thief",
+                "dados_jogo": {
+                    "desenvolvedora": "Eidos Montreal",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "Titanfall",
+                "dados_jogo": {
+                    "desenvolvedora": "Respawn Entertainment",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Tom Clancy's The Division",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Massive",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Tomb Raider: Definitive Edition",
+                "dados_jogo": {
+                    "desenvolvedora": "Crystal Dynamics",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "Trials Fusion",
+                "dados_jogo": {
+                    "desenvolvedora": "RedLynx",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Valiant Hearts: The Great War",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Montpellier",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Warframe",
+                "dados_jogo": {
+                    "desenvolvedora": "Digital Extremes",
+                    "publicadora": "Digital Extremes"
+                }
+            },
+            {
+                "nome_jogo": "Warhammer 40,000: Eternal Crusade",
+                "dados_jogo": {
+                    "desenvolvedora": "Behaviour Interactive",
+                    "publicadora": "Behaviour Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Warriors Orochi 3: Ultimate",
+                "dados_jogo": {
+                    "desenvolvedora": "Omega Force",
+                    "publicadora": "Tecmo Koei"
+                }
+            },
+            {
+                "nome_jogo": "Watch Dogs",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Montreal",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Watch Dogs 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Montreal",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Wolfenstein: The New Order",
+                "dados_jogo": {
+                    "desenvolvedora": "MachineGames",
+                    "publicadora": "Bethesda Softworks"
+                }
+            },
+            {
+                "nome_jogo": "Xbox Fitness",
+                "dados_jogo": {
+                    "desenvolvedora": "Sumo Digital",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Zoo Tycoon",
+                "dados_jogo": {
+                    "desenvolvedora": "Frontier Developments",
+                    "publicadora": "Microsoft Studios"
+                }
+            },
+            {
+                "nome_jogo": "Zumba Fitness: World Party",
+                "dados_jogo": {
+                    "desenvolvedora": "Zoë Mode",
+                    "publicadora": "Majesco Entertainment"
+                }
+            }
+        ]
+    },
+    {
+        "plataforma": "PlayStation 4",
+        "jogos": [
+            {
+                "nome_jogo": "Aaru's Awakening",
+                "dados_jogo": {
+                    "desenvolvedora": "Lumenox Games",
+                    "publicadora": "Lumenox Games"
+                }
+            },
+            {
+                "nome_jogo": "Aban Hawkins e The 1.001 Spikes",
+                "dados_jogo": {
+                    "desenvolvedora": "8bits Fanatics",
+                    "publicadora": "Nicalis"
+                }
+            },
+            {
+                "nome_jogo": "Abzû",
+                "dados_jogo": {
+                    "desenvolvedora": "Giant Squid",
+                    "publicadora": "505 Games"
+                }
+            },
+            {
+                "nome_jogo": "Akiba's Trip: Undead e Undressed",
+                "dados_jogo": {
+                    "desenvolvedora": "Acquire",
+                    "publicadora": "Acquire"
+                }
+            },
+            {
+                "nome_jogo": "Alienation",
+                "dados_jogo": {
+                    "desenvolvedora": "Housemarque",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Alien: Isolation",
+                "dados_jogo": {
+                    "desenvolvedora": "Creative Assembly",
+                    "publicadora": "Sega"
+                }
+            },
+            {
+                "nome_jogo": "Alpha Muse",
+                "dados_jogo": {
+                    "desenvolvedora": "Current Circus",
+                    "publicadora": "Current Circus"
+                }
+            },
+            {
+                "nome_jogo": "Among The Sleep",
+                "dados_jogo": {
+                    "desenvolvedora": "Krillbite Studio",
+                    "publicadora": "Krillbite Studio"
+                }
+            },
+            {
+                "nome_jogo": "Angry Birds Star Wars",
+                "dados_jogo": {
+                    "desenvolvedora": "Exient Entertainment",
+                    "publicadora": "Activision"
+                }
+            },
+            {
+                "nome_jogo": "Anoko Wa Ore Kara Hanarenai",
+                "dados_jogo": {
+                    "desenvolvedora": "Giga",
+                    "publicadora": "TGL"
+                }
+            },
+            {
+                "nome_jogo": "Anomaly 2",
+                "dados_jogo": {
+                    "desenvolvedora": "11 Bit Studio",
+                    "publicadora": "ASA"
+                }
+            },
+            {
+                "nome_jogo": "Another World",
+                "dados_jogo": {
+                    "desenvolvedora": "The Digital Lounge",
+                    "publicadora": "The Digital Lounge"
+                }
+            },
+            {
+                "nome_jogo": "Apotheon",
+                "dados_jogo": {
+                    "desenvolvedora": "Alien Trap Games",
+                    "publicadora": "Alien Trap Games"
+                }
+            },
+            {
+                "nome_jogo": "Assassin's Creed IV: Black Flag",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Montreal",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Assassin's Creed Odyssey",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Montreal",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Assassin's Creed Origins",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Montreal",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Assassin's Creed Unity",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Toronto",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Assassin's Creed Syndicate",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Quebec",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Assault Android Cactus",
+                "dados_jogo": {
+                    "desenvolvedora": "Witch Beam",
+                    "publicadora": "Witch Beam"
+                }
+            },
+            {
+                "nome_jogo": "Assault Suit Leynos",
+                "dados_jogo": {
+                    "desenvolvedora": "Dracue Software",
+                    "publicadora": "Extreme Co."
+                }
+            },
+            {
+                "nome_jogo": "Awesomenauts",
+                "dados_jogo": {
+                    "desenvolvedora": "Abstraction Games",
+                    "publicadora": "Ronimo Games"
+                }
+            },
+            {
+                "nome_jogo": "Axiom Verge",
+                "dados_jogo": {
+                    "desenvolvedora": "Thomas Happ Games",
+                    "publicadora": "Thomas Happ Games"
+                }
+            },
+            {
+                "nome_jogo": "Aztez",
+                "dados_jogo": {
+                    "desenvolvedora": "Team Colorblind",
+                    "publicadora": "Team Colorblind"
+                }
+            },
+            {
+                "nome_jogo": "Backgammon Blitz",
+                "dados_jogo": {
+                    "desenvolvedora": "VooFoo Studios",
+                    "publicadora": "VooFoo Studios"
+                }
+            },
+            {
+                "nome_jogo": "Baja: Edge of Control HD",
+                "dados_jogo": {
+                    "desenvolvedora": "2XL Games / BlitWorks",
+                    "publicadora": "THQ Nordic"
+                }
+            },
+            {
+                "nome_jogo": "Batman: Arkham Knight",
+                "dados_jogo": {
+                    "desenvolvedora": "Rocksteady Studios",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Basement Crawl",
+                "dados_jogo": {
+                    "desenvolvedora": "Bloober Team",
+                    "publicadora": "Bloober Team"
+                }
+            },
+            {
+                "nome_jogo": "Battleborn",
+                "dados_jogo": {
+                    "desenvolvedora": "Gearbox Software",
+                    "publicadora": "2K Games"
+                }
+            },
+            {
+                "nome_jogo": "Battlefield 4",
+                "dados_jogo": {
+                    "desenvolvedora": "DICE",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Battlefield: Hardline",
+                "dados_jogo": {
+                    "desenvolvedora": "Visceral Games",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Beyond: Flesh and Blood",
+                "dados_jogo": {
+                    "desenvolvedora": "Pixelbomb",
+                    "publicadora": "Pixelbomb"
+                }
+            },
+            {
+                "nome_jogo": "Bladestorm: The Hundred Years’ War & Nightmare",
+                "dados_jogo": {
+                    "desenvolvedora": "Koei Tecmo",
+                    "publicadora": "Koei Tecmo"
+                }
+            },
+            {
+                "nome_jogo": "Blast 'Em Bunnies",
+                "dados_jogo": {
+                    "desenvolvedora": "Nnooo",
+                    "publicadora": "Nnooo"
+                }
+            },
+            {
+                "nome_jogo": "Bloodborne",
+                "dados_jogo": {
+                    "desenvolvedora": "From Software",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Blue Estate",
+                "dados_jogo": {
+                    "desenvolvedora": "Hesaw",
+                    "publicadora": "Focus Home Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Bombshell",
+                "dados_jogo": {
+                    "desenvolvedora": "3D Realms / Interceptor Entertainment",
+                    "publicadora": "3D Realms / Interceptor Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Bound by Flame",
+                "dados_jogo": {
+                    "desenvolvedora": "Spiders",
+                    "publicadora": "Focus Home Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Broforce",
+                "dados_jogo": {
+                    "desenvolvedora": "Free Lives Games",
+                    "publicadora": "Devolver Digital"
+                }
+            },
+            {
+                "nome_jogo": "Call of Cthulhu",
+                "dados_jogo": {
+                    "desenvolvedora": "Frogwares",
+                    "publicadora": "Focus Home Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Call of Duty: Advanced Warfare",
+                "dados_jogo": {
+                    "desenvolvedora": "Sledgehammer Games",
+                    "publicadora": "Activision"
+                }
+            },
+            {
+                "nome_jogo": "Call of Duty: Ghosts",
+                "dados_jogo": {
+                    "desenvolvedora": "Infinity Ward",
+                    "publicadora": "Activision"
+                }
+            },
+            {
+                "nome_jogo": "Call of Duty: Black Ops III",
+                "dados_jogo": {
+                    "desenvolvedora": "Treyarch",
+                    "publicadora": "Activision"
+                }
+            },
+            {
+                "nome_jogo": "Carmageddon: Reincarnation",
+                "dados_jogo": {
+                    "desenvolvedora": "Stainless Games",
+                    "publicadora": "Stainless Games"
+                }
+            },
+            {
+                "nome_jogo": "CastleStorm",
+                "dados_jogo": {
+                    "desenvolvedora": "Zen Studios",
+                    "publicadora": "Zen Studios"
+                }
+            },
+            {
+                "nome_jogo": "Cel Damage HD",
+                "dados_jogo": {
+                    "desenvolvedora": "Finish Line Games",
+                    "publicadora": "Finish Line Games"
+                }
+            },
+            {
+                "nome_jogo": "Chariot",
+                "dados_jogo": {
+                    "desenvolvedora": "Frima Studio",
+                    "publicadora": "Frima Studio"
+                }
+            },
+            {
+                "nome_jogo": "Chasm",
+                "dados_jogo": {
+                    "desenvolvedora": "Discord Games, Inc.",
+                    "publicadora": "Discord Games, Inc."
+                }
+            },
+            {
+                "nome_jogo": "Child of Light",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Montreal",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Chroma Squad",
+                "dados_jogo": {
+                    "desenvolvedora": "Behold Studios",
+                    "publicadora": "Behold Studios"
+                }
+            },
+            {
+                "nome_jogo": "Churbles",
+                "dados_jogo": {
+                    "desenvolvedora": "CrashGem",
+                    "publicadora": "CrashGem"
+                }
+            },
+            {
+                "nome_jogo": "Citizens of Earth",
+                "dados_jogo": {
+                    "desenvolvedora": "Atlus",
+                    "publicadora": "Eden Industries"
+                }
+            },
+            {
+                "nome_jogo": "Contrast",
+                "dados_jogo": {
+                    "desenvolvedora": "Compulsion Games",
+                    "publicadora": "Compulsion Games"
+                }
+            },
+            {
+                "nome_jogo": "Cosmic Star Heroine",
+                "dados_jogo": {
+                    "desenvolvedora": "Zeboyd Games",
+                    "publicadora": "Zeboyd Games"
+                }
+            },
+            {
+                "nome_jogo": "Costume Quest 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Double Fine Productions",
+                    "publicadora": "Double Fine Productions"
+                }
+            },
+            {
+                "nome_jogo": "CounterSpy",
+                "dados_jogo": {
+                    "desenvolvedora": "Dynamighty",
+                    "publicadora": "Dynamighty"
+                }
+            },
+            {
+                "nome_jogo": "Crash Bandicoot N. Sane Trilogy",
+                "dados_jogo": {
+                    "desenvolvedora": "Vicarious Visions",
+                    "publicadora": "Activision"
+                }
+            },
+            {
+                "nome_jogo": "Crazy Climber",
+                "dados_jogo": {
+                    "desenvolvedora": "Nichibutsu",
+                    "publicadora": "Hamster Corporation"
+                }
+            },
+            {
+                "nome_jogo": "Crossing The Line",
+                "dados_jogo": {
+                    "desenvolvedora": "Zomboko Entertainment",
+                    "publicadora": "Zomboko Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Cyberpunk 2077",
+                "dados_jogo": {
+                    "desenvolvedora": "CD Projekt RED",
+                    "publicadora": "ASA"
+                }
+            },
+            {
+                "nome_jogo": "Daylight",
+                "dados_jogo": {
+                    "desenvolvedora": "Zombie Studios",
+                    "publicadora": "Atlus"
+                }
+            },
+            {
+                "nome_jogo": "DayZ",
+                "dados_jogo": {
+                    "desenvolvedora": "Bohemia Interactive",
+                    "publicadora": "Bohemia Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Dead by Daylight",
+                "dados_jogo": {
+                    "desenvolvedora": "Behaviour Interactive",
+                    "publicadora": "Starbreeze Studios"
+                }
+            },
+            {
+                "nome_jogo": "Dead Island 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Yager Development",
+                    "publicadora": "Deep Silver"
+                }
+            },
+            {
+                "nome_jogo": "Dead Nation: Apocalypse Edition",
+                "dados_jogo": {
+                    "desenvolvedora": "Housemarque",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Dead or Alive 5: Last Round",
+                "dados_jogo": {
+                    "desenvolvedora": "Tecmo Koei",
+                    "publicadora": "Tecmo Koei"
+                }
+            },
+            {
+                "nome_jogo": "Defense Grid 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Hidden Path Entertainment",
+                    "publicadora": "505 Games"
+                }
+            },
+            {
+                "nome_jogo": "Destiny",
+                "dados_jogo": {
+                    "desenvolvedora": "Bungie",
+                    "publicadora": "JP: Sony Computer EntertainmentWW: Activision"
+                }
+            },
+            {
+                "nome_jogo": "Detroit: Become Human",
+                "dados_jogo": {
+                    "desenvolvedora": "Quantic Dream",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Diablo III",
+                "dados_jogo": {
+                    "desenvolvedora": "Blizzard Entertainment",
+                    "publicadora": "Blizzard Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Dirt 4",
+                "dados_jogo": {
+                    "desenvolvedora": "Codemasters",
+                    "publicadora": "Codemasters"
+                }
+            },
+            {
+                "nome_jogo": "Dirt Rally",
+                "dados_jogo": {
+                    "desenvolvedora": "Codemasters",
+                    "publicadora": "Codemasters"
+                }
+            },
+            {
+                "nome_jogo": "Dirt Rally 2.0",
+                "dados_jogo": {
+                    "desenvolvedora": "Codemasters",
+                    "publicadora": "Codemasters"
+                }
+            },
+            {
+                "nome_jogo": "Disgaea 5",
+                "dados_jogo": {
+                    "desenvolvedora": "Nippon Ichi Software",
+                    "publicadora": "Nippon Ichi Software"
+                }
+            },
+            {
+                "nome_jogo": "Disney Infinity: Marvel Super Heroes",
+                "dados_jogo": {
+                    "desenvolvedora": "Avalanche Software",
+                    "publicadora": "Disney Interactive Studios"
+                }
+            },
+            {
+                "nome_jogo": "Divekick",
+                "dados_jogo": {
+                    "desenvolvedora": "Iron Galaxy Studios",
+                    "publicadora": "Iron Galaxy Studios"
+                }
+            },
+            {
+                "nome_jogo": "Doki-Doki Universe",
+                "dados_jogo": {
+                    "desenvolvedora": "HumaNature Studios",
+                    "publicadora": "HumaNature Studios"
+                }
+            },
+            {
+                "nome_jogo": "Doom",
+                "dados_jogo": {
+                    "desenvolvedora": "Id Software",
+                    "publicadora": "Bethesda Softworks"
+                }
+            },
+            {
+                "nome_jogo": "Don't Starve",
+                "dados_jogo": {
+                    "desenvolvedora": "Klei Entertainment",
+                    "publicadora": "Klei Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Dragon Age: Inquisition",
+                "dados_jogo": {
+                    "desenvolvedora": "BioWare",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Dragon Ball Xenoverse",
+                "dados_jogo": {
+                    "desenvolvedora": "Dimps",
+                    "publicadora": "Namco Bandai Games"
+                }
+            },
+            {
+                "nome_jogo": "Dragon Fin Soup",
+                "dados_jogo": {
+                    "desenvolvedora": "Grimm Bros",
+                    "publicadora": "Grimm Bros"
+                }
+            },
+            {
+                "nome_jogo": "Dragon Quest Heroes",
+                "dados_jogo": {
+                    "desenvolvedora": "Koei Tecmo",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "Dreadnaught",
+                "dados_jogo": {
+                    "desenvolvedora": "Yager Development",
+                    "publicadora": "Grey Box"
+                }
+            },
+            {
+                "nome_jogo": "Drifter",
+                "dados_jogo": {
+                    "desenvolvedora": "Celsius Game Studios",
+                    "publicadora": "Celsius Game Studios"
+                }
+            },
+            {
+                "nome_jogo": "Driveclub",
+                "dados_jogo": {
+                    "desenvolvedora": "Evolution Studios",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Dying Light",
+                "dados_jogo": {
+                    "desenvolvedora": "Techland",
+                    "publicadora": "Warner Bros. Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Dynasty Warriors 8: Xtreme Legends Complete Edition",
+                "dados_jogo": {
+                    "desenvolvedora": "Tecmo Koei",
+                    "publicadora": "Tecmo Koei"
+                }
+            },
+            {
+                "nome_jogo": "Dynasty Warriors 8: Empires",
+                "dados_jogo": {
+                    "desenvolvedora": "Omega Force",
+                    "publicadora": "Tecmo Koei"
+                }
+            },
+            {
+                "nome_jogo": "EA Sports UFC",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Earth Defense Force 4.1: The Shadow of New Despair",
+                "dados_jogo": {
+                    "desenvolvedora": "ASA",
+                    "publicadora": "D3"
+                }
+            },
+            {
+                "nome_jogo": "Earthlock: Festival of Magic",
+                "dados_jogo": {
+                    "desenvolvedora": "Snowcastle Games",
+                    "publicadora": "Snowcastle Games"
+                }
+            },
+            {
+                "nome_jogo": "Energy Hook",
+                "dados_jogo": {
+                    "desenvolvedora": "Happion Labs",
+                    "publicadora": "Happion Labs"
+                }
+            },
+            {
+                "nome_jogo": "Entwined",
+                "dados_jogo": {
+                    "desenvolvedora": "Pixelopus",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Escape Plan",
+                "dados_jogo": {
+                    "desenvolvedora": "Fun Bits Interactive",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Escape Goat 2",
+                "dados_jogo": {
+                    "desenvolvedora": "MagicalTimeBean",
+                    "publicadora": "Double Fine Productions"
+                }
+            },
+            {
+                "nome_jogo": "Ether One",
+                "dados_jogo": {
+                    "desenvolvedora": "White Paper Games",
+                    "publicadora": "White Paper Games"
+                }
+            },
+            {
+                "nome_jogo": "Everybody's Gone to the Rapture",
+                "dados_jogo": {
+                    "desenvolvedora": "The Chinese Room / SCE Santa Monica Studio",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Evolve",
+                "dados_jogo": {
+                    "desenvolvedora": "Turtle Rock Studios",
+                    "publicadora": "2K Games"
+                }
+            },
+            {
+                "nome_jogo": "F1 2015",
+                "dados_jogo": {
+                    "desenvolvedora": "Codemasters",
+                    "publicadora": "Codemasters"
+                }
+            },
+            {
+                "nome_jogo": "F1 2016",
+                "dados_jogo": {
+                    "desenvolvedora": "Codemasters",
+                    "publicadora": "Codemasters"
+                }
+            },
+            {
+                "nome_jogo": "F1 2017",
+                "dados_jogo": {
+                    "desenvolvedora": "Codemasters",
+                    "publicadora": "Codemasters"
+                }
+            },
+            {
+                "nome_jogo": "F1 2018",
+                "dados_jogo": {
+                    "desenvolvedora": "Codemasters",
+                    "publicadora": "Codemasters"
+                }
+            },
+            {
+                "nome_jogo": "F1 2019",
+                "dados_jogo": {
+                    "desenvolvedora": "Codemasters",
+                    "publicadora": "Codemasters"
+                }
+            },
+            {
+                "nome_jogo": "Fairy Fencer F: Advent Dark Force",
+                "dados_jogo": {
+                    "desenvolvedora": "Compile Heart",
+                    "publicadora": "ASA"
+                }
+            },
+            {
+                "nome_jogo": "Far Cry 4",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Montreal",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Farming Simulator 15",
+                "dados_jogo": {
+                    "desenvolvedora": "Giants Software",
+                    "publicadora": "Focus Home Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Farming Simulator 17",
+                "dados_jogo": {
+                    "desenvolvedora": "Giants Software",
+                    "publicadora": "Focus Home Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Farming Simulator 19",
+                "dados_jogo": {
+                    "desenvolvedora": "Giants Software",
+                    "publicadora": "Focus Home Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Fez",
+                "dados_jogo": {
+                    "desenvolvedora": "Polytron Corporation",
+                    "publicadora": "Polytron Corporation"
+                }
+            },
+            {
+                "nome_jogo": "Fenix Rage",
+                "dados_jogo": {
+                    "desenvolvedora": "Green Lava Studios",
+                    "publicadora": "Green Lava Studios"
+                }
+            },
+            {
+                "nome_jogo": "Fibbage",
+                "dados_jogo": {
+                    "desenvolvedora": "Jackbox Games",
+                    "publicadora": "Jackbox Games"
+                }
+            },
+            {
+                "nome_jogo": "FIFA 14",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "FIFA 15",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "FIFA 16",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "FIFA 17",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "FIFA 18",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "FIFA 19",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "FIFA 20",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "FIFA 21",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "FIFA 22",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Canada",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Final Fantasy Type-0 HD",
+                "dados_jogo": {
+                    "desenvolvedora": "Square Enix",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "Final Fantasy XIV: A Realm Reborn",
+                "dados_jogo": {
+                    "desenvolvedora": "Square Enix",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "Final Fantasy XV",
+                "dados_jogo": {
+                    "desenvolvedora": "Square Enix",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "Final Horizon",
+                "dados_jogo": {
+                    "desenvolvedora": "Eiconic Games",
+                    "publicadora": "Eiconic Games"
+                }
+            },
+            {
+                "nome_jogo": "Flockers",
+                "dados_jogo": {
+                    "desenvolvedora": "Team17",
+                    "publicadora": "Team17"
+                }
+            },
+            {
+                "nome_jogo": "Flow",
+                "dados_jogo": {
+                    "desenvolvedora": "SuperVillain Studios",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Flower",
+                "dados_jogo": {
+                    "desenvolvedora": "Bluepoint Games",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Forgotten Memories",
+                "dados_jogo": {
+                    "desenvolvedora": "Psychoz Interactive",
+                    "publicadora": "Psychoz Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Forma.8",
+                "dados_jogo": {
+                    "desenvolvedora": "MixedBag Games",
+                    "publicadora": "MixedBag Games"
+                }
+            },
+            {
+                "nome_jogo": "Foul Play",
+                "dados_jogo": {
+                    "desenvolvedora": "Mediatonic",
+                    "publicadora": "Devolver Digital"
+                }
+            },
+            {
+                "nome_jogo": "Fushigi no Gensōkyō 3",
+                "dados_jogo": {
+                    "desenvolvedora": "AQUA STYLE",
+                    "publicadora": "Mediascape"
+                }
+            },
+            {
+                "nome_jogo": "Galak-Z: The Dimensional",
+                "dados_jogo": {
+                    "desenvolvedora": "17-BIT",
+                    "publicadora": "17-BIT"
+                }
+            },
+            {
+                "nome_jogo": "Get Even",
+                "dados_jogo": {
+                    "desenvolvedora": "The Farm 51",
+                    "publicadora": "The Farm 51"
+                }
+            },
+            {
+                "nome_jogo": "God Eater 2: Rage Burst",
+                "dados_jogo": {
+                    "desenvolvedora": "Namco Bandai",
+                    "publicadora": "Namco Bandai"
+                }
+            },
+            {
+                "nome_jogo": "God of War III Remastered",
+                "dados_jogo": {
+                    "desenvolvedora": "SCE Santa Monica Studio",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "God of War",
+                "dados_jogo": {
+                    "desenvolvedora": "SCE Santa Monica Studio",
+                    "publicadora": "Sony Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "God of War Ragnarök",
+                "dados_jogo": {
+                    "desenvolvedora": "Santa Monica Studio",
+                    "publicadora": "Sony Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Gone Home",
+                "dados_jogo": {
+                    "desenvolvedora": "The Fullbright Company",
+                    "publicadora": "Midnight City"
+                }
+            },
+            {
+                "nome_jogo": "Grand Theft Auto V",
+                "dados_jogo": {
+                    "desenvolvedora": "Rockstar North",
+                    "publicadora": "Rockstar Games"
+                }
+            },
+            {
+                "nome_jogo": "Gran Turismo 7",
+                "dados_jogo": {
+                    "desenvolvedora": "Polyphony Digital",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Grave",
+                "dados_jogo": {
+                    "desenvolvedora": "Broken Window Studios",
+                    "publicadora": "Broken Window Studios"
+                }
+            },
+            {
+                "nome_jogo": "Grim Fandango",
+                "dados_jogo": {
+                    "desenvolvedora": "Double Fine Productions",
+                    "publicadora": "Disney Interactive Studios"
+                }
+            },
+            {
+                "nome_jogo": "Guacamelee! Super Turbo Championship Edition",
+                "dados_jogo": {
+                    "desenvolvedora": "DrinkBox Studios",
+                    "publicadora": "DrinkBox Studios"
+                }
+            },
+            {
+                "nome_jogo": "Guilty Gear Xrd",
+                "dados_jogo": {
+                    "desenvolvedora": "Arc System Works",
+                    "publicadora": "JP: Arc System WorksAN: Aksys Games"
+                }
+            },
+            {
+                "nome_jogo": "Guns of Icarus Online",
+                "dados_jogo": {
+                    "desenvolvedora": "Muse Games",
+                    "publicadora": "Muse Games"
+                }
+            },
+            {
+                "nome_jogo": "Gunsport",
+                "dados_jogo": {
+                    "desenvolvedora": "Necrosoft Games",
+                    "publicadora": "Iron Galaxy Studios"
+                }
+            },
+            {
+                "nome_jogo": "H-Hour: World's Elite",
+                "dados_jogo": {
+                    "desenvolvedora": "SOF Studios",
+                    "publicadora": "SOF Studios"
+                }
+            },
+            {
+                "nome_jogo": "Hand of Fate",
+                "dados_jogo": {
+                    "desenvolvedora": "Defiant Development",
+                    "publicadora": "Defiant Development"
+                }
+            },
+            {
+                "nome_jogo": "Heart Forth: Alicia",
+                "dados_jogo": {
+                    "desenvolvedora": "Alonso Martin",
+                    "publicadora": "ASA"
+                }
+            },
+            {
+                "nome_jogo": "Helldivers",
+                "dados_jogo": {
+                    "desenvolvedora": "Arrowhead Studios",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Hellraid",
+                "dados_jogo": {
+                    "desenvolvedora": "Techland",
+                    "publicadora": "Techland"
+                }
+            },
+            {
+                "nome_jogo": "Hohokum",
+                "dados_jogo": {
+                    "desenvolvedora": "Honeyslug",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Home",
+                "dados_jogo": {
+                    "desenvolvedora": "Benjamin Rivers",
+                    "publicadora": "Benjamin Rivers"
+                }
+            },
+            {
+                "nome_jogo": "Homefront: The Revolution",
+                "dados_jogo": {
+                    "desenvolvedora": "Crytek",
+                    "publicadora": "Deep Silver"
+                }
+            },
+            {
+                "nome_jogo": "Horizon: Zero Dawn",
+                "dados_jogo": {
+                    "desenvolvedora": "Guerilla Games",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Hotline Miami",
+                "dados_jogo": {
+                    "desenvolvedora": "Dennaton Games",
+                    "publicadora": "Devolver Digital"
+                }
+            },
+            {
+                "nome_jogo": "Hotline Miami 2: Wrong Number",
+                "dados_jogo": {
+                    "desenvolvedora": "Dennaton Games",
+                    "publicadora": "Devolver Digital"
+                }
+            },
+            {
+                "nome_jogo": "Human Element",
+                "dados_jogo": {
+                    "desenvolvedora": "Robotoki",
+                    "publicadora": "Robotoki"
+                }
+            },
+            {
+                "nome_jogo": "HUNT: Horrors of the Gilded Age",
+                "dados_jogo": {
+                    "desenvolvedora": "Crytek USA",
+                    "publicadora": "Crytek"
+                }
+            },
+            {
+                "nome_jogo": "Hyperdimension Neptunia VII",
+                "dados_jogo": {
+                    "desenvolvedora": "Compile Heart",
+                    "publicadora": "Compile Heart"
+                }
+            },
+            {
+                "nome_jogo": "Hyper Light Drifter",
+                "dados_jogo": {
+                    "desenvolvedora": "Heart Machine",
+                    "publicadora": "Heart Machine"
+                }
+            },
+            {
+                "nome_jogo": "Infamous: Second Son",
+                "dados_jogo": {
+                    "desenvolvedora": "Sucker Punch Productions",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Infamous First Light",
+                "dados_jogo": {
+                    "desenvolvedora": "Sucker Punch Productions",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Injustice: Gods Among Us Ultimate Edition",
+                "dados_jogo": {
+                    "desenvolvedora": "High Voltage Software",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Ironclad Tactics",
+                "dados_jogo": {
+                    "desenvolvedora": "Zachtronics",
+                    "publicadora": "Zachtronics"
+                }
+            },
+            {
+                "nome_jogo": "The Jackbox Party Pack",
+                "dados_jogo": {
+                    "desenvolvedora": "Jackbox Games",
+                    "publicadora": "Jackbox Games"
+                }
+            },
+            {
+                "nome_jogo": "The Jackbox Party Pack 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Jackbox Games",
+                    "publicadora": "Jackbox Games"
+                }
+            },
+            {
+                "nome_jogo": "The Jackbox Party Pack 3",
+                "dados_jogo": {
+                    "desenvolvedora": "Jackbox Games",
+                    "publicadora": "Jackbox Games"
+                }
+            },
+            {
+                "nome_jogo": "The Jackbox Party Pack 4",
+                "dados_jogo": {
+                    "desenvolvedora": "Jackbox Games",
+                    "publicadora": "Jackbox Games"
+                }
+            },
+            {
+                "nome_jogo": "The Jackbox Party Pack 5",
+                "dados_jogo": {
+                    "desenvolvedora": "Jackbox Games",
+                    "publicadora": "Jackbox Games"
+                }
+            },
+            {
+                "nome_jogo": "The Jackbox Party Pack 6",
+                "dados_jogo": {
+                    "desenvolvedora": "Jackbox Games",
+                    "publicadora": "Jackbox Games"
+                }
+            },
+            {
+                "nome_jogo": "Jamestown Plus",
+                "dados_jogo": {
+                    "desenvolvedora": "Final Form Games",
+                    "publicadora": "Final Form Games"
+                }
+            },
+            {
+                "nome_jogo": "Joysound Dive 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Xing Entertainment",
+                    "publicadora": "Xing Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Just Dance 2014",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Milan",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Just Dance 2015",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Milan & Ubisoft Paris",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Just Dance 2016",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Just Dance 2017",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Montreal",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Just Dance 2018",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Paris",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Just Dance 2019",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Paris",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Just Dance 2020",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Paris",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Kickbeat",
+                "dados_jogo": {
+                    "desenvolvedora": "Zen Studios",
+                    "publicadora": "Zen Studios"
+                }
+            },
+            {
+                "nome_jogo": "Killzone Shadow Fall",
+                "dados_jogo": {
+                    "desenvolvedora": "Guerrilla Games",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "King Oddball",
+                "dados_jogo": {
+                    "desenvolvedora": "10tons Ltd.",
+                    "publicadora": "10tons Ltd."
+                }
+            },
+            {
+                "nome_jogo": "Kingdom Come: Deliverance",
+                "dados_jogo": {
+                    "desenvolvedora": "Warhorse Studios",
+                    "publicadora": "Warhorse Studios"
+                }
+            },
+            {
+                "nome_jogo": "Kingdom Hearts III",
+                "dados_jogo": {
+                    "desenvolvedora": "Square Enix",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "Kingdom Under Fire II",
+                "dados_jogo": {
+                    "desenvolvedora": "Blueside",
+                    "publicadora": "ASA"
+                }
+            },
+            {
+                "nome_jogo": "Knack",
+                "dados_jogo": {
+                    "desenvolvedora": "SCE Japan Studio",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Kodoku",
+                "dados_jogo": {
+                    "desenvolvedora": "Carnivore Studio",
+                    "publicadora": "Carnivore Studio"
+                }
+            },
+            {
+                "nome_jogo": "Legend of Raven",
+                "dados_jogo": {
+                    "desenvolvedora": "Circle Edge",
+                    "publicadora": "Nicalis"
+                }
+            },
+            {
+                "nome_jogo": "Lego The Hobbit",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Lego Marvel Super Heroes",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Liege",
+                "dados_jogo": {
+                    "desenvolvedora": "Coda Games",
+                    "publicadora": "Coda Games"
+                }
+            },
+            {
+                "nome_jogo": "Lily Bergamo",
+                "dados_jogo": {
+                    "desenvolvedora": "Grasshopper Manufacture",
+                    "publicadora": "GungHo Online Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "LittleBigPlanet 3",
+                "dados_jogo": {
+                    "desenvolvedora": "Sumo Digital",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Lords of the Fallen",
+                "dados_jogo": {
+                    "desenvolvedora": "Deck13 Interactive",
+                    "publicadora": "City Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Mad Max",
+                "dados_jogo": {
+                    "desenvolvedora": "Avalanche Studios",
+                    "publicadora": "Warner Bros. Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Madden NFL 25",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Tiburon",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Madden NFL 15",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Tiburon",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Madden NFL 16",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Tiburon",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Madden NFL 17",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Tiburon",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Madden NFL 18",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Tiburon",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Madden NFL 19",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Tiburon",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Madden NFL 20",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Tiburon",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Magicka 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Pieces Interactive",
+                    "publicadora": "Paradox Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Marc Ecko's Getting Up 2",
+                "dados_jogo": {
+                    "desenvolvedora": "ASA",
+                    "publicadora": "ASA"
+                }
+            },
+            {
+                "nome_jogo": "Mário NX",
+                "dados_jogo": {
+                    "desenvolvedora": "Nintendo EZ",
+                    "publicadora": "Ancmit"
+                }
+            },
+            {
+                "nome_jogo": "Marvel vs. Capcom: Infinite",
+                "dados_jogo": {
+                    "desenvolvedora": "Capcom",
+                    "publicadora": "Capcom"
+                }
+            },
+            {
+                "nome_jogo": "Metal Gear Solid V: Ground Zeroes",
+                "dados_jogo": {
+                    "desenvolvedora": "Kojima Productions",
+                    "publicadora": "Konami"
+                }
+            },
+            {
+                "nome_jogo": "Metal Gear Solid V: The Phantom Pain",
+                "dados_jogo": {
+                    "desenvolvedora": "Kojima Productions",
+                    "publicadora": "Konami"
+                }
+            },
+            {
+                "nome_jogo": "Metro 2033 Redux",
+                "dados_jogo": {
+                    "desenvolvedora": "4A Games",
+                    "publicadora": "Deep Silver"
+                }
+            },
+            {
+                "nome_jogo": "Metro: Last Light Redux",
+                "dados_jogo": {
+                    "desenvolvedora": "4A Games",
+                    "publicadora": "Deep Silver"
+                }
+            },
+            {
+                "nome_jogo": "Terra-Média: Sombras de Mordor",
+                "dados_jogo": {
+                    "desenvolvedora": "Monolith Productions",
+                    "publicadora": "Warner Bros. Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Mighty No. 9",
+                "dados_jogo": {
+                    "desenvolvedora": "Comcept / Inti Creates",
+                    "publicadora": "ASA"
+                }
+            },
+            {
+                "nome_jogo": "Minecraft",
+                "dados_jogo": {
+                    "desenvolvedora": "4J Studios",
+                    "publicadora": "Mojang"
+                }
+            },
+            {
+                "nome_jogo": "Mirror's Edge 2",
+                "dados_jogo": {
+                    "desenvolvedora": "DICE",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "MLB 14: The Show",
+                "dados_jogo": {
+                    "desenvolvedora": "SCE San Diego Studio",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "MLB 15: The Show",
+                "dados_jogo": {
+                    "desenvolvedora": "SCE San Diego Studio",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "MLB 16: The Show",
+                "dados_jogo": {
+                    "desenvolvedora": "SCE San Diego Studio",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "MLB 17: The Show",
+                "dados_jogo": {
+                    "desenvolvedora": "SCE San Diego Studio",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "MLB 18: The Show",
+                "dados_jogo": {
+                    "desenvolvedora": "SCE San Diego Studio",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "MLB 18: The Show",
+                "dados_jogo": {
+                    "desenvolvedora": "SCE San Diego Studio",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "MLB 19: The Show",
+                "dados_jogo": {
+                    "desenvolvedora": "SCE San Diego Studio",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Mobile Suit Gundam",
+                "dados_jogo": {
+                    "desenvolvedora": "Bandai Namco Games",
+                    "publicadora": "Bandai Namco Games"
+                }
+            },
+            {
+                "nome_jogo": "Monochroma",
+                "dados_jogo": {
+                    "desenvolvedora": "Nowhere Studios",
+                    "publicadora": "Nowhere Studios"
+                }
+            },
+            {
+                "nome_jogo": "Mortal Kombat X",
+                "dados_jogo": {
+                    "desenvolvedora": "NetherRealm Studios",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "MotoGP 14",
+                "dados_jogo": {
+                    "desenvolvedora": "Milestone S.r.l.",
+                    "publicadora": "Milestone S.r.l."
+                }
+            },
+            {
+                "nome_jogo": "MotoGP 15",
+                "dados_jogo": {
+                    "desenvolvedora": "Milestone S.r.l.",
+                    "publicadora": "Milestone S.r.l."
+                }
+            },
+            {
+                "nome_jogo": "MotoGP 16",
+                "dados_jogo": {
+                    "desenvolvedora": "Milestone S.r.l.",
+                    "publicadora": "Milestone S.r.l."
+                }
+            },
+            {
+                "nome_jogo": "MotoGP 17",
+                "dados_jogo": {
+                    "desenvolvedora": "Milestone S.r.l.",
+                    "publicadora": "Milestone S.r.l."
+                }
+            },
+            {
+                "nome_jogo": "MotoGP 18",
+                "dados_jogo": {
+                    "desenvolvedora": "Milestone S.r.l.",
+                    "publicadora": "Milestone S.r.l."
+                }
+            },
+            {
+                "nome_jogo": "MotoGP 19",
+                "dados_jogo": {
+                    "desenvolvedora": "Milestone S.r.l.",
+                    "publicadora": "Milestone S.r.l."
+                }
+            },
+            {
+                "nome_jogo": "Mousecraft",
+                "dados_jogo": {
+                    "desenvolvedora": "Crunching Koalas",
+                    "publicadora": "Crunching Koalas"
+                }
+            },
+            {
+                "nome_jogo": "Murdered: Soul Suspect",
+                "dados_jogo": {
+                    "desenvolvedora": "Airtight Games",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "MXGP The Official Motocross Videogame",
+                "dados_jogo": {
+                    "desenvolvedora": "Milestone S.r.l.",
+                    "publicadora": "Milestone S.r.l."
+                }
+            },
+            {
+                "nome_jogo": "MXGP 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Milestone S.r.l.",
+                    "publicadora": "Milestone S.r.l."
+                }
+            },
+            {
+                "nome_jogo": "MXGP 3",
+                "dados_jogo": {
+                    "desenvolvedora": "Milestone S.r.l.",
+                    "publicadora": "Milestone S.r.l."
+                }
+            },
+            {
+                "nome_jogo": "MXGP 4",
+                "dados_jogo": {
+                    "desenvolvedora": "Milestone S.r.l.",
+                    "publicadora": "Milestone S.r.l."
+                }
+            },
+            {
+                "nome_jogo": "N++",
+                "dados_jogo": {
+                    "desenvolvedora": "Metanet Software",
+                    "publicadora": "ASA"
+                }
+            },
+            {
+                "nome_jogo": "Naruto Shippuden: Ultimate Ninja Storm 4",
+                "dados_jogo": {
+                    "desenvolvedora": "CyberConnect2",
+                    "publicadora": "Bandai Namco Games"
+                }
+            },
+            {
+                "nome_jogo": "Naruto Shippuden: Ultimate Ninja Storm Trilogy",
+                "dados_jogo": {
+                    "desenvolvedora": "CyberConnect2",
+                    "publicadora": "Bandai Namco Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Natural Doctrine",
+                "dados_jogo": {
+                    "desenvolvedora": "Kadokawa Games",
+                    "publicadora": "Kadokawa Games"
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K14",
+                "dados_jogo": {
+                    "desenvolvedora": "Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K15",
+                "dados_jogo": {
+                    "desenvolvedora": "Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K16",
+                "dados_jogo": {
+                    "desenvolvedora": "Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K17",
+                "dados_jogo": {
+                    "desenvolvedora": "Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K18",
+                "dados_jogo": {
+                    "desenvolvedora": "Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K19",
+                "dados_jogo": {
+                    "desenvolvedora": "Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "NBA 2K20",
+                "dados_jogo": {
+                    "desenvolvedora": "Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "NBA Live 14",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Tiburon",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "NBA Live 15",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Tiburon",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "NBA Live 16",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Tiburon",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "NBA Live 18",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Tiburon",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "NBA Live 19",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Tiburon",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "NBA Playgrounds",
+                "dados_jogo": {
+                    "desenvolvedora": "Saber Interactive",
+                    "publicadora": "Saber Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Need for Speed: Heat",
+                "dados_jogo": {
+                    "desenvolvedora": "Ghost Games",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Need for Speed: Rivals",
+                "dados_jogo": {
+                    "desenvolvedora": "Ghost Games",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "NHL 15",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Vancouver",
+                    "publicadora": "EA Sports"
+                }
+            },
+            {
+                "nome_jogo": "NHL 16",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Vancouver",
+                    "publicadora": "EA Sports"
+                }
+            },
+            {
+                "nome_jogo": "NHL 17",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Vancouver",
+                    "publicadora": "EA Sports"
+                }
+            },
+            {
+                "nome_jogo": "NHL 18",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Vancouver",
+                    "publicadora": "EA Sports"
+                }
+            },
+            {
+                "nome_jogo": "NHL 19",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Vancouver",
+                    "publicadora": "EA Sports"
+                }
+            },
+            {
+                "nome_jogo": "NHL 20",
+                "dados_jogo": {
+                    "desenvolvedora": "EA Vancouver",
+                    "publicadora": "EA Sports"
+                }
+            },
+            {
+                "nome_jogo": "Nikoli no Puzzle 4: Sudoku",
+                "dados_jogo": {
+                    "desenvolvedora": "HAMSTER",
+                    "publicadora": "HAMSTER"
+                }
+            },
+            {
+                "nome_jogo": "Nidhogg",
+                "dados_jogo": {
+                    "desenvolvedora": "Messhof",
+                    "publicadora": "Messhof"
+                }
+            },
+            {
+                "nome_jogo": "Ninja Kid's Demon Castle Adventure",
+                "dados_jogo": {
+                    "desenvolvedora": "Hamster Corporation",
+                    "publicadora": "Hamster Corporation"
+                }
+            },
+            {
+                "nome_jogo": "Nobunaga no Yabō Online: Tenka Mugen no Shō",
+                "dados_jogo": {
+                    "desenvolvedora": "Tecmo Koei",
+                    "publicadora": "Tecmo Koei"
+                }
+            },
+            {
+                "nome_jogo": "Nobunaga no Yabō: Sozō",
+                "dados_jogo": {
+                    "desenvolvedora": "Tecmo Koei",
+                    "publicadora": "Tecmo Koei"
+                }
+            },
+            {
+                "nome_jogo": "No Man's Sky",
+                "dados_jogo": {
+                    "desenvolvedora": "Hello Games",
+                    "publicadora": "Hello Games"
+                }
+            },
+            {
+                "nome_jogo": "Not a Hero",
+                "dados_jogo": {
+                    "desenvolvedora": "Roll7",
+                    "publicadora": "Devolver Digital"
+                }
+            },
+            {
+                "nome_jogo": "Nuclear Throne",
+                "dados_jogo": {
+                    "desenvolvedora": "Vlambeer",
+                    "publicadora": "Vlambeer"
+                }
+            },
+            {
+                "nome_jogo": "Octodad: Dadliest Catch",
+                "dados_jogo": {
+                    "desenvolvedora": "Young Horses, Inc",
+                    "publicadora": "Young Horses, Inc"
+                }
+            },
+            {
+                "nome_jogo": "Oddworld: New 'n' Tasty!",
+                "dados_jogo": {
+                    "desenvolvedora": "Just Add Water",
+                    "publicadora": "Oddworld Inhabitants"
+                }
+            },
+            {
+                "nome_jogo": "OlliOlli",
+                "dados_jogo": {
+                    "desenvolvedora": "Roll7",
+                    "publicadora": "Roll7"
+                }
+            },
+            {
+                "nome_jogo": "Omega Quintet",
+                "dados_jogo": {
+                    "desenvolvedora": "Compile Heart",
+                    "publicadora": "Compile Heart"
+                }
+            },
+            {
+                "nome_jogo": "One Piece: Burning Blood",
+                "dados_jogo": {
+                    "desenvolvedora": "Spike Chunsoft",
+                    "publicadora": "Bandai Namco Games"
+                }
+            },
+            {
+                "nome_jogo": "Os Cavaleiros do Zodíaco: Alma dos Soldados",
+                "dados_jogo": {
+                    "desenvolvedora": "Dimps",
+                    "publicadora": "Bandai Namco Games"
+                }
+            },
+            {
+                "nome_jogo": "Outlast",
+                "dados_jogo": {
+                    "desenvolvedora": "Red Barrels Studio",
+                    "publicadora": "Red Barrels Studio"
+                }
+            },
+            {
+                "nome_jogo": "Pavilion",
+                "dados_jogo": {
+                    "desenvolvedora": "Visiontrick Media",
+                    "publicadora": "Visiontrick Media"
+                }
+            },
+            {
+                "nome_jogo": "Pro Evolution Soccer 2015",
+                "dados_jogo": {
+                    "desenvolvedora": "Konami",
+                    "publicadora": "Konami"
+                }
+            },
+            {
+                "nome_jogo": "Pro Evolution Soccer 2016",
+                "dados_jogo": {
+                    "desenvolvedora": "Konami",
+                    "publicadora": "Konami"
+                }
+            },
+            {
+                "nome_jogo": "Pro Evolution Soccer 2017",
+                "dados_jogo": {
+                    "desenvolvedora": "Konami",
+                    "publicadora": "Konami"
+                }
+            },
+            {
+                "nome_jogo": "Pro Evolution Soccer 2018",
+                "dados_jogo": {
+                    "desenvolvedora": "Konami",
+                    "publicadora": "Konami"
+                }
+            },
+            {
+                "nome_jogo": "Pro Evolution Soccer 2019",
+                "dados_jogo": {
+                    "desenvolvedora": "Konami",
+                    "publicadora": "Konami"
+                }
+            },
+            {
+                "nome_jogo": "Pro Evolution Soccer 2020",
+                "dados_jogo": {
+                    "desenvolvedora": "Konami",
+                    "publicadora": "Konami"
+                }
+            },
+            {
+                "nome_jogo": "Phantom Breaker: Battle Grounds Overdrive",
+                "dados_jogo": {
+                    "desenvolvedora": "5pb.",
+                    "publicadora": "5pb."
+                }
+            },
+            {
+                "nome_jogo": "PixelJunk Shooter Ultimate",
+                "dados_jogo": {
+                    "desenvolvedora": "Double Eleven Studios / Q-Games",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Pier Solar HD",
+                "dados_jogo": {
+                    "desenvolvedora": "WaterMelon",
+                    "publicadora": "WaterMelon"
+                }
+            },
+            {
+                "nome_jogo": "Plants vs. Zombies: Garden Warfare",
+                "dados_jogo": {
+                    "desenvolvedora": "PopCap Games",
+                    "publicadora": "Electronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Plants vs Zombies: Garden Warfare 2",
+                "dados_jogo": {
+                    "desenvolvedora": "PopCap Games",
+                    "publicadora": "Eletronic Arts"
+                }
+            },
+            {
+                "nome_jogo": "Pool Nation Extreme/FX",
+                "dados_jogo": {
+                    "desenvolvedora": "Cherry Pop Games",
+                    "publicadora": "Cherry Pop Games"
+                }
+            },
+            {
+                "nome_jogo": "Primal Carnage: Genesis",
+                "dados_jogo": {
+                    "desenvolvedora": "First-person shooter",
+                    "publicadora": "ASA"
+                }
+            },
+            {
+                "nome_jogo": "Project CARS",
+                "dados_jogo": {
+                    "desenvolvedora": "Slightly Mad Studios",
+                    "publicadora": "Slightly Mad Studios"
+                }
+            },
+            {
+                "nome_jogo": "Project CARS 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Slightly Mad Studios",
+                    "publicadora": "Slightly Mad Studios"
+                }
+            },
+            {
+                "nome_jogo": "Project: Heart and Soul",
+                "dados_jogo": {
+                    "desenvolvedora": "Reach Game Studios",
+                    "publicadora": "ASA"
+                }
+            },
+            {
+                "nome_jogo": "Project Phoenix",
+                "dados_jogo": {
+                    "desenvolvedora": "Creative Intelligence Arts",
+                    "publicadora": "Creative Intelligence Arts"
+                }
+            },
+            {
+                "nome_jogo": "Pure Pool",
+                "dados_jogo": {
+                    "desenvolvedora": "VooFoo Studios",
+                    "publicadora": "VooFoo Studios"
+                }
+            },
+            {
+                "nome_jogo": "Putty Squad",
+                "dados_jogo": {
+                    "desenvolvedora": "System 3",
+                    "publicadora": "System 3"
+                }
+            },
+            {
+                "nome_jogo": "QuickDraw",
+                "dados_jogo": {
+                    "desenvolvedora": "Greenfly Studios",
+                    "publicadora": "Greenfly Studios"
+                }
+            },
+            {
+                "nome_jogo": "Race the Sun",
+                "dados_jogo": {
+                    "desenvolvedora": "Flippfly",
+                    "publicadora": "Flippfly"
+                }
+            },
+            {
+                "nome_jogo": "Rayman Legends",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Montpellier",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Ray's the Dead",
+                "dados_jogo": {
+                    "desenvolvedora": "Ragtag Studios",
+                    "publicadora": "Ragtag Studios"
+                }
+            },
+            {
+                "nome_jogo": "R.B.I. Baseball 14",
+                "dados_jogo": {
+                    "desenvolvedora": "Behaviour Interactive",
+                    "publicadora": "MLB Advanced Media"
+                }
+            },
+            {
+                "nome_jogo": "R.B.I. Baseball 15",
+                "dados_jogo": {
+                    "desenvolvedora": "HB Studios",
+                    "publicadora": "MLB Advanced Media"
+                }
+            },
+            {
+                "nome_jogo": "R.B.I. Baseball 16",
+                "dados_jogo": {
+                    "desenvolvedora": "HB Studios",
+                    "publicadora": "MLB Advanced Media"
+                }
+            },
+            {
+                "nome_jogo": "R.B.I. Baseball 17",
+                "dados_jogo": {
+                    "desenvolvedora": "MLB Advanced Media",
+                    "publicadora": "MLB Advanced Media"
+                }
+            },
+            {
+                "nome_jogo": "R.B.I. Baseball 18",
+                "dados_jogo": {
+                    "desenvolvedora": "MLB Advanced Media",
+                    "publicadora": "MLB Advanced Media"
+                }
+            },
+            {
+                "nome_jogo": "R.B.I. Baseball 19",
+                "dados_jogo": {
+                    "desenvolvedora": "MLB Advanced Media",
+                    "publicadora": "MLB Advanced Media"
+                }
+            },
+            {
+                "nome_jogo": "Ready to Run",
+                "dados_jogo": {
+                    "desenvolvedora": "Beatshapers",
+                    "publicadora": "Beatshapers"
+                }
+            },
+            {
+                "nome_jogo": "Red Dead Redemption 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Rockstar Games",
+                    "publicadora": "Rockstar Games"
+                }
+            },
+            {
+                "nome_jogo": "Resident Evil: Revelations 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Capcom",
+                    "publicadora": "Capcom"
+                }
+            },
+            {
+                "nome_jogo": "Resident Evil 2 Remake",
+                "dados_jogo": {
+                    "desenvolvedora": "Capcom",
+                    "publicadora": "Capcom"
+                }
+            },
+            {
+                "nome_jogo": "Resident Evil 4",
+                "dados_jogo": {
+                    "desenvolvedora": "Capcom",
+                    "publicadora": "Capcom"
+                }
+            },
+            {
+                "nome_jogo": "Resident Evil 5",
+                "dados_jogo": {
+                    "desenvolvedora": "Capcom",
+                    "publicadora": "Capcom"
+                }
+            },
+            {
+                "nome_jogo": "Resident Evil 6",
+                "dados_jogo": {
+                    "desenvolvedora": "Capcom",
+                    "publicadora": "Capcom"
+                }
+            },
+            {
+                "nome_jogo": "Resident Evil 7: Biohazard",
+                "dados_jogo": {
+                    "desenvolvedora": "Capcom",
+                    "publicadora": "Capcom"
+                }
+            },
+            {
+                "nome_jogo": "Resident Evil Origins Collection (R.E 0 e R.E 1)",
+                "dados_jogo": {
+                    "desenvolvedora": "Capcom",
+                    "publicadora": "Capcom"
+                }
+            },
+            {
+                "nome_jogo": "Resogun",
+                "dados_jogo": {
+                    "desenvolvedora": "Housemarque",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Ride",
+                "dados_jogo": {
+                    "desenvolvedora": "Milestone S.r.l.",
+                    "publicadora": "Milestone S.r.l."
+                }
+            },
+            {
+                "nome_jogo": "Ride 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Milestone S.r.l.",
+                    "publicadora": "Milestone S.r.l."
+                }
+            },
+            {
+                "nome_jogo": "Ride 3",
+                "dados_jogo": {
+                    "desenvolvedora": "Milestone S.r.l.",
+                    "publicadora": "Milestone S.r.l."
+                }
+            },
+            {
+                "nome_jogo": "Rime",
+                "dados_jogo": {
+                    "desenvolvedora": "Tequila Works",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Road Not Taken",
+                "dados_jogo": {
+                    "desenvolvedora": "Spry Fox",
+                    "publicadora": "Spry Fox"
+                }
+            },
+            {
+                "nome_jogo": "Rocketbirds 2: Evolution",
+                "dados_jogo": {
+                    "desenvolvedora": "Ratloop",
+                    "publicadora": "ASA"
+                }
+            },
+            {
+                "nome_jogo": "Rogue Legacy",
+                "dados_jogo": {
+                    "desenvolvedora": "Cellar Door Games",
+                    "publicadora": "Cellar Door Games"
+                }
+            },
+            {
+                "nome_jogo": "Rugby 15",
+                "dados_jogo": {
+                    "desenvolvedora": "HB Studios",
+                    "publicadora": "Bigben Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Rygar",
+                "dados_jogo": {
+                    "desenvolvedora": "Tecmo",
+                    "publicadora": "Hamster Corporation"
+                }
+            },
+            {
+                "nome_jogo": "Ryû ga Gotoku Ishin!",
+                "dados_jogo": {
+                    "desenvolvedora": "Sega",
+                    "publicadora": "Sega"
+                }
+            },
+            {
+                "nome_jogo": "Samurai Gunn",
+                "dados_jogo": {
+                    "desenvolvedora": "Maxistentialism",
+                    "publicadora": "Teknopants"
+                }
+            },
+            {
+                "nome_jogo": "Savant Ascent",
+                "dados_jogo": {
+                    "desenvolvedora": "DPad Studios",
+                    "publicadora": "DPad Studios"
+                }
+            },
+            {
+                "nome_jogo": "Scivelation",
+                "dados_jogo": {
+                    "desenvolvedora": "Black Wing Foundation",
+                    "publicadora": "TopWare Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Secret Ponchos",
+                "dados_jogo": {
+                    "desenvolvedora": "Switchblade Monkeys",
+                    "publicadora": "Switchblade Monkeys"
+                }
+            },
+            {
+                "nome_jogo": "Shadow of the Beast",
+                "dados_jogo": {
+                    "desenvolvedora": "Heavy Spectrum",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Shadow Warrior",
+                "dados_jogo": {
+                    "desenvolvedora": "Flying Wild Hog",
+                    "publicadora": "Devolver Digital"
+                }
+            },
+            {
+                "nome_jogo": "Shantae: Half-Genie Hero",
+                "dados_jogo": {
+                    "desenvolvedora": "WayForward Technologies",
+                    "publicadora": "ASA"
+                }
+            },
+            {
+                "nome_jogo": "Sherlock Holmes: Crimes e Punishments",
+                "dados_jogo": {
+                    "desenvolvedora": "Frogwares",
+                    "publicadora": "Focus Home Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Skulls of the Shogun: Bone-A-Fide Edition",
+                "dados_jogo": {
+                    "desenvolvedora": "17-BIT",
+                    "publicadora": "17-BIT"
+                }
+            },
+            {
+                "nome_jogo": "Skylanders: Swap Force",
+                "dados_jogo": {
+                    "desenvolvedora": "Vicarious Visions",
+                    "publicadora": "Activision"
+                }
+            },
+            {
+                "nome_jogo": "Skylanders: Trap Team",
+                "dados_jogo": {
+                    "desenvolvedora": "Beenox",
+                    "publicadora": "Activision"
+                }
+            },
+            {
+                "nome_jogo": "Sleeping Dogs: Triad Wars",
+                "dados_jogo": {
+                    "desenvolvedora": "United Front Games",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "Sniper Elite 3",
+                "dados_jogo": {
+                    "desenvolvedora": "Rebellion Developments",
+                    "publicadora": "505 Games"
+                }
+            },
+            {
+                "nome_jogo": "Sniper: Ghost Warrior 3",
+                "dados_jogo": {
+                    "desenvolvedora": "CI Games",
+                    "publicadora": "CI Games"
+                }
+            },
+            {
+                "nome_jogo": "SOMA",
+                "dados_jogo": {
+                    "desenvolvedora": "Frictional Games",
+                    "publicadora": "Frictional Games"
+                }
+            },
+            {
+                "nome_jogo": "Soul Saga: Episode 1",
+                "dados_jogo": {
+                    "desenvolvedora": "Disastercake",
+                    "publicadora": "Disastercake"
+                }
+            },
+            {
+                "nome_jogo": "Sound Shapes",
+                "dados_jogo": {
+                    "desenvolvedora": "Queasy Games",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Source",
+                "dados_jogo": {
+                    "desenvolvedora": "Fire Fenix",
+                    "publicadora": "Fire Fenix"
+                }
+            },
+            {
+                "nome_jogo": "Spelunky",
+                "dados_jogo": {
+                    "desenvolvedora": "Mossmouth",
+                    "publicadora": "Mossmouth"
+                }
+            },
+            {
+                "nome_jogo": "Sportsfriends",
+                "dados_jogo": {
+                    "desenvolvedora": "Die Gute Fabrik",
+                    "publicadora": "Die Gute Fabrik"
+                }
+            },
+            {
+                "nome_jogo": "Star Wars: Battlefront",
+                "dados_jogo": {
+                    "desenvolvedora": "DICE",
+                    "publicadora": "Electronic Arts / LucasArts"
+                }
+            },
+            {
+                "nome_jogo": "Star Wars: Battlefront II",
+                "dados_jogo": {
+                    "desenvolvedora": "DICE",
+                    "publicadora": "Electronic Arts / LucasArts"
+                }
+            },
+            {
+                "nome_jogo": "Starbound",
+                "dados_jogo": {
+                    "desenvolvedora": "Chucklefish",
+                    "publicadora": "Chucklefish"
+                }
+            },
+            {
+                "nome_jogo": "Starwhal: Just the Tip",
+                "dados_jogo": {
+                    "desenvolvedora": "Breakfall",
+                    "publicadora": "Breakfall"
+                }
+            },
+            {
+                "nome_jogo": "Steamworld Dig",
+                "dados_jogo": {
+                    "desenvolvedora": "Image & Form",
+                    "publicadora": "Image & Form"
+                }
+            },
+            {
+                "nome_jogo": "Stealth Inc: Ultimate Edition",
+                "dados_jogo": {
+                    "desenvolvedora": "Curve Studios",
+                    "publicadora": "Curve Studios"
+                }
+            },
+            {
+                "nome_jogo": "Street Fighter V",
+                "dados_jogo": {
+                    "desenvolvedora": "Capcom",
+                    "publicadora": "Capcom"
+                }
+            },
+            {
+                "nome_jogo": "Strider",
+                "dados_jogo": {
+                    "desenvolvedora": "Double Helix Games",
+                    "publicadora": "Capcom"
+                }
+            },
+            {
+                "nome_jogo": "Strike Suit Zero",
+                "dados_jogo": {
+                    "desenvolvedora": "Born Ready Games",
+                    "publicadora": "Born Ready Games"
+                }
+            },
+            {
+                "nome_jogo": "Super Exploding Zoo",
+                "dados_jogo": {
+                    "desenvolvedora": "Honeyslug",
+                    "publicadora": "ASA"
+                }
+            },
+            {
+                "nome_jogo": "Super Motherload",
+                "dados_jogo": {
+                    "desenvolvedora": "XGen Studios",
+                    "publicadora": "XGen Studios"
+                }
+            },
+            {
+                "nome_jogo": "Switch Galaxy Ultra",
+                "dados_jogo": {
+                    "desenvolvedora": "Atomicom",
+                    "publicadora": "Atomicom"
+                }
+            },
+            {
+                "nome_jogo": "Tekken 7",
+                "dados_jogo": {
+                    "desenvolvedora": "Bandai Namco Entertainment",
+                    "publicadora": "Bandai Namco Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "The Amazing Spider-Man 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Beenox",
+                    "publicadora": "Activision"
+                }
+            },
+            {
+                "nome_jogo": "The Binding of Isaac: Rebirth",
+                "dados_jogo": {
+                    "desenvolvedora": "Nicalis",
+                    "publicadora": "Nicalis"
+                }
+            },
+            {
+                "nome_jogo": "The Crew",
+                "dados_jogo": {
+                    "desenvolvedora": "Ivory Tower",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "The Crew 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Ivory Tower",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "The Elder Scrolls Online",
+                "dados_jogo": {
+                    "desenvolvedora": "ZeniMax Online Studios",
+                    "publicadora": "Bethesda Softworks"
+                }
+            },
+            {
+                "nome_jogo": "The Evil Within",
+                "dados_jogo": {
+                    "desenvolvedora": "Tango Gameworks",
+                    "publicadora": "Bethesda Softworks"
+                }
+            },
+            {
+                "nome_jogo": "The Evil Within 2",
+                "dados_jogo": {
+                    "desenvolvedora": "Tango Gameworks",
+                    "publicadora": "Bethesda Softworks"
+                }
+            },
+            {
+                "nome_jogo": "The Idolmaster",
+                "dados_jogo": {
+                    "desenvolvedora": "Bandai Namco Games",
+                    "publicadora": "Bandai Namco Games"
+                }
+            },
+            {
+                "nome_jogo": "The Last Guardian",
+                "dados_jogo": {
+                    "desenvolvedora": "Team ICO / SCE Japan Studio",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "The Last of Us Remastered",
+                "dados_jogo": {
+                    "desenvolvedora": "Naughty Dog",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "The Legend of el Lobodestroyo vs. la Liga de los Villanos",
+                "dados_jogo": {
+                    "desenvolvedora": "Lefhanded Studios",
+                    "publicadora": "Lefhanded Studios"
+                }
+            },
+            {
+                "nome_jogo": "The Lego Movie Videogame",
+                "dados_jogo": {
+                    "desenvolvedora": "TT Games",
+                    "publicadora": "Warner Bros. Interactive Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "The Order: 1886",
+                "dados_jogo": {
+                    "desenvolvedora": "Ready at DawnSCE Santa Monica Studio",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "The Pinball Arcade",
+                "dados_jogo": {
+                    "desenvolvedora": "FarSight Studios",
+                    "publicadora": "FarSight Studios"
+                }
+            },
+            {
+                "nome_jogo": "The Swapper",
+                "dados_jogo": {
+                    "desenvolvedora": "Facepalm Games",
+                    "publicadora": "Curve Studios"
+                }
+            },
+            {
+                "nome_jogo": "The Witcher 3: Wild Hunt",
+                "dados_jogo": {
+                    "desenvolvedora": "CD Projekt RED",
+                    "publicadora": "CD Projekt RED"
+                }
+            },
+            {
+                "nome_jogo": "The Witness",
+                "dados_jogo": {
+                    "desenvolvedora": "Thekla, Inc.",
+                    "publicadora": "Thekla, Inc."
+                }
+            },
+            {
+                "nome_jogo": "Thief",
+                "dados_jogo": {
+                    "desenvolvedora": "Eidos Montreal",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "Tiny Brains",
+                "dados_jogo": {
+                    "desenvolvedora": "Spearhead Games",
+                    "publicadora": "Spearhead Games"
+                }
+            },
+            {
+                "nome_jogo": "Tiny Troopers: Joint Ops",
+                "dados_jogo": {
+                    "desenvolvedora": "Kukouri Mobile Entertainment",
+                    "publicadora": "Wired Productions"
+                }
+            },
+            {
+                "nome_jogo": "Titan Attacks",
+                "dados_jogo": {
+                    "desenvolvedora": "Puppygames",
+                    "publicadora": "Puppygames"
+                }
+            },
+            {
+                "nome_jogo": "To Leave",
+                "dados_jogo": {
+                    "desenvolvedora": "Freaky Creations",
+                    "publicadora": "Freaky Creations"
+                }
+            },
+            {
+                "nome_jogo": "Tomb Raider: Definitive Edition",
+                "dados_jogo": {
+                    "desenvolvedora": "Crystal Dynamics",
+                    "publicadora": "Square Enix"
+                }
+            },
+            {
+                "nome_jogo": "Tom Clancy's The Division",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Massive",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Tom Clancy's Rainbow 6: Patriots",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft MontrealUbisoft Red StormUbisoft Toronto",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Tom Clancy's Rainbow Six: Siege",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft MontrealUbisoft Red StormUbisoft Toronto",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Tottemo E Mahjong Plus",
+                "dados_jogo": {
+                    "desenvolvedora": "Arc System Works",
+                    "publicadora": "Arc System Works"
+                }
+            },
+            {
+                "nome_jogo": "Towerfall: Ascension",
+                "dados_jogo": {
+                    "desenvolvedora": "Matt Thorson",
+                    "publicadora": "Matt Thorson"
+                }
+            },
+            {
+                "nome_jogo": "Transformers: Rise of the Dark Spark",
+                "dados_jogo": {
+                    "desenvolvedora": "Edge of Reality",
+                    "publicadora": "Activision"
+                }
+            },
+            {
+                "nome_jogo": "Transistor",
+                "dados_jogo": {
+                    "desenvolvedora": "Supergiant Games",
+                    "publicadora": "Supergiant Games"
+                }
+            },
+            {
+                "nome_jogo": "Trials Fusion",
+                "dados_jogo": {
+                    "desenvolvedora": "RedLynx",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Trine 2: Complete Story",
+                "dados_jogo": {
+                    "desenvolvedora": "Frozenbyte",
+                    "publicadora": "Atlus"
+                }
+            },
+            {
+                "nome_jogo": "Uncharted: The Nathan Drake Collection",
+                "dados_jogo": {
+                    "desenvolvedora": "Naughty Dog",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Uncharted 4: A Thief's End",
+                "dados_jogo": {
+                    "desenvolvedora": "Naughty Dog",
+                    "publicadora": "Sony Computer Entertainment"
+                }
+            },
+            {
+                "nome_jogo": "Until Dawn",
+                "dados_jogo": {
+                    "desenvolvedora": "",
+                    "publicadora": ""
+                }
+            },
+            {
+                "nome_jogo": "Valiant Hearts: The Great War",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft Montpellier",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Velocity 2X",
+                "dados_jogo": {
+                    "desenvolvedora": "FuturLab",
+                    "publicadora": "FuturLab"
+                }
+            },
+            {
+                "nome_jogo": "Volume",
+                "dados_jogo": {
+                    "desenvolvedora": "Mike Bithell Games",
+                    "publicadora": "ASA"
+                }
+            },
+            {
+                "nome_jogo": "Warhammer 40,000: Eternal Crusade",
+                "dados_jogo": {
+                    "desenvolvedora": "Behaviour Interactive",
+                    "publicadora": "Behaviour Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Watch Dogs",
+                "dados_jogo": {
+                    "desenvolvedora": "Ubisoft MontrealUbisoft ReflectionsUbisoft Romania",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Watch Dogs 2",
+                "dados_jogo": {
+                    "desenvolvedora": "",
+                    "publicadora": "Ubisoft"
+                }
+            },
+            {
+                "nome_jogo": "Whore of the Orient",
+                "dados_jogo": {
+                    "desenvolvedora": "Team Bondi",
+                    "publicadora": "ASA"
+                }
+            },
+            {
+                "nome_jogo": "Without Memory",
+                "dados_jogo": {
+                    "desenvolvedora": "Dinosaurum Games",
+                    "publicadora": "Dinosaurum Games"
+                }
+            },
+            {
+                "nome_jogo": "Wolfenstein: The New Order",
+                "dados_jogo": {
+                    "desenvolvedora": "MachineGames",
+                    "publicadora": "Bethesda Softworks"
+                }
+            },
+            {
+                "nome_jogo": "WonderFlick",
+                "dados_jogo": {
+                    "desenvolvedora": "Level-5",
+                    "publicadora": "Level-5"
+                }
+            },
+            {
+                "nome_jogo": "WRC 5",
+                "dados_jogo": {
+                    "desenvolvedora": "Kylotonn Games",
+                    "publicadora": "Bigben Interactive"
+                }
+            },
+            {
+                "nome_jogo": "WRC 6",
+                "dados_jogo": {
+                    "desenvolvedora": "Kylotonn Games",
+                    "publicadora": "Bigben Interactive"
+                }
+            },
+            {
+                "nome_jogo": "WRC 7",
+                "dados_jogo": {
+                    "desenvolvedora": "Kylotonn Games",
+                    "publicadora": "Bigben Interactive"
+                }
+            },
+            {
+                "nome_jogo": "WRC 8",
+                "dados_jogo": {
+                    "desenvolvedora": "Kylotonn Games",
+                    "publicadora": "Bigben Interactive"
+                }
+            },
+            {
+                "nome_jogo": "Worms Battlegrounds",
+                "dados_jogo": {
+                    "desenvolvedora": "Team17",
+                    "publicadora": "Team17"
+                }
+            },
+            {
+                "nome_jogo": "WWE 2K15",
+                "dados_jogo": {
+                    "desenvolvedora": "Yuke's/Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "WWE 2K16",
+                "dados_jogo": {
+                    "desenvolvedora": "Yuke's/Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "WWE 2K17",
+                "dados_jogo": {
+                    "desenvolvedora": "Yuke's/Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "WWE 2K18",
+                "dados_jogo": {
+                    "desenvolvedora": "Yuke's/Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "WWE 2K19",
+                "dados_jogo": {
+                    "desenvolvedora": "Yuke's/Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            },
+            {
+                "nome_jogo": "WWE 2K20",
+                "dados_jogo": {
+                    "desenvolvedora": "Yuke's/Visual Concepts",
+                    "publicadora": "2K Sports"
+                }
+            }
+        ]
+    }
+]
